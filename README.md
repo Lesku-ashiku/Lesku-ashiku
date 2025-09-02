@@ -1,9 +1,9 @@
-NAME:alessio ashiku
+ashiku
 
-FROM:piacenza italy
+FROM:italy
 
-YEAR:2009
+YEAR:200*
 
-SCHOOL:isii Marconi(Informatics)
+SCHOOL:isii (Informatics)
 
 
