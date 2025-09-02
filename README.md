@@ -1,9 +1,1 @@
-ashiku
-
-FROM:italy
-
-YEAR:200*
-
-SCHOOL:isii (Informatics)
-
-
+the account of:ashiku italy
